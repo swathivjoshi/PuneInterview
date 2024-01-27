@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    font-family: Lexend;
+   
+}
+body{
+    background-color: rgba(220, 220, 220, 0.135);
+}
+.logo{
+    height:5rem;
+}
+.blue{
+    color: rgba(0, 0, 255, 0.737);
+    font-weight: 700;
+}
+.header_content1{
+    font-size: 3rem;
+    font-weight: 400;
+    font-family: Lexend;
+}
+.header_content2{
+    font-size: 2rem;
+    font-family: 'Lexend', sans-serif;
+}
+.header_bgimg{
+    background: linear-gradient(180deg, rgb(250, 251, 252),rgb(255, 255, 255), rgba(255, 255, 255, 0.979),rgba(255, 255, 255, 0.874),rgba(250, 252, 252, 0.68)),url(images/3.jpg) no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:100vh;
+    padding-top: 180px;
+}
+.header_bottom{
+    margin-bottom: 30px;
+}
+.sec1_img{
+height: 370px;
+width:60vw;
+}
+.content{
+    font-family: 'Lexend', sans-serif;
+   font-weight: 300;
+   text-align: justify;
+}
+.marketing{
+    position: relative;
+    bottom: 210px;
+    height: 500px;
+}
+.cardimg{
+ height: 120px;
+ padding-top: 20px;
+}
+.bi-stars,.bi-person-circle ,.bi-quote,.bi-arrow-left-circle,.bi-arrow-right-circle {
+color: rgba(0, 0, 255, 0.683);
+ height: 50px;
+ width: 50px;
+
+}
+.sec4_img{
+    background: url(images/3560_R1NUIEpPUyAyMDMtMjk.jpg) no-repeat;
+    background-size: cover;
+    height: 750px;
+    border-radius: 50px;
+   
+  
+  
+}
+.box{
+    margin-top: 40px;
+    position: relative;
+    width:40vw;
+}
+.sec6{
+height: 150px;
+padding-top: 20px;
+}
+.contain_height{
+    height: 90vh;
+ 
+}
+.grad{
+    background-image: linear-gradient(120deg, rgba(0, 255, 255, 0.084), rgba(255, 255, 255, 0.619), rgba(255, 36, 215, 0.062));
+}
+.viedo_style{
+    height: 350px;
+   width:100%;
+   margin-left:20px;
+   border:1px solid black;
+   
+   
+}
+.bi-facebook,.bi-instagram,.bi-youtube{
+height:25px;
+}
+
+.fb
+{
+    color: #316FF6;
+}
+.insta
+{
+    color: #DD2A7B ;
+}
+.yt
+{
+    color: #FF0000;
+}

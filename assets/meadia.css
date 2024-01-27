@@ -1,0 +1,115 @@
+@media screen and (max-width:767px) {
+    .header_content1{
+        font-size: 1.8rem;
+        
+    }
+    .header_content2{
+        font-size:1.3rem;
+    }
+    .header_bgimg{
+        padding-top:100px;
+    }
+    .sec1_img{
+       width:100vw;
+       height:300px;
+       padding: 0px 20px;
+     
+    }
+    .marketing{
+       width:80vw;
+       height: 520px;
+    }
+    .heading{
+   font-size: 1.5rem;
+    }
+    .subheading{
+        font-size: 1.5rem;  
+ 
+    }
+    .cardimg{
+      height: 120px;
+       
+    }
+      .sec4_img{
+      height: 250px;  
+      width:100%;
+}
+    .box{
+     width:100%;
+    }
+    .viedo_style{
+ width:85%;
+ margin-top: 30px;
+    
+    }
+    .sec_7{
+    font-size: 0.1rem;
+   
+
+    }
+.sec7_cont2{
+
+    text-align: start;
+    font-size: 0.5rem;
+}
+.subheading{
+    text-align: center;
+}
+
+
+}
+
+@media screen and (min-width:767px) and (max-width:1200px) {
+    .header_content1{
+        font-size: 28px;
+        
+    }
+    .header_content2{
+        font-size: 16px;
+    }
+    .heads{
+        padding-top:140px;
+    }
+    .heading{
+        font-size: 1.8rem;
+         }
+         .subheading{
+            font-size: 0.8rem;  
+     
+        }
+    .sec1_img{
+      height: 400px;
+    }
+    .marketing{
+        bottom: 150px;
+        width: 60vw;
+       
+     }
+  
+       .sec4_img{
+        
+        width:100%;
+       
+    }
+    .box{
+        width:80vw;
+    }
+    .content{
+        text-align: center;
+    }
+    .subheading{
+        text-align: center;
+    }
+ 
+  
+}
+@media screen and (max-width:300px) {
+    .bi ,.bi-stars,.bi-person-circle ,.bi-quote,.bi-arrow-left-circle,.bi-arrow-right-circle {
+    
+        height: 25px;
+        width: 25px;
+        
+       
+       }
+}
+
